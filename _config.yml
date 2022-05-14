@@ -61,7 +61,6 @@ author:
   name   : "Scott Capista"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-<!---
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,7 +74,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
--->
 
 footer:
   links:
